@@ -16,24 +16,19 @@ A consumer can then arrange with the seller for a payment plan and pick up a tex
 
 ## Mockup Pages
 
-* Landing Page
-
+* Landing Page 
 There will be a homepage explaining the application and then students can log in with their UH account. 
 
 * User Home Page 
-
 Users can see their textbook listings, ratings, ...
 
 * Admin Home Page 
-
 The admins will have access to all of the textbook postings on the site, and will have the power to edit and delete posts.
 
 * Listing/Posting Page  
-
 Users can see the listings of many textbooks for sale.  The page will be sorted by ‘most recent postings’ by default.  Users can filter by subject and search by textbook name.
 
 * Individual Listing page
-
 Displays the textbook for sale with all of the offer’s information.  Details such as price, textbook name, image, etc. will be displayed.  There will also be an option to place an order for the item.
 
 
@@ -45,3 +40,24 @@ Displays the textbook for sale with all of the offer’s information.  Details s
 * Returning users can log in with the log in back 
 * Logged in students have the option to browse the offers or post new listing 
 * Admin logs in and is able to edit and organize listings 
+
+## Mockup pages used as a basis
+
+*Landing Page can be used as a basis for the landing page when users arrive on the home page.
+![](images/landing-page.png)
+
+*Sign in and sign up Pages can be used for basis on our sign in and sign up pages.
+![](images/signin-page.png)
+![](images/signup-page.png)
+
+*Home Page can be used for basis of our user home page.
+![](images/home-page.png)
+
+* Filter Page could be used as a basis for the listings/postings page.
+![](images/filter-page.png)
+
+*Add Project Page could be used as a basis for when users are trying to post an offer
+![](images/add-project-page.png)
+
+*Digits Notes component might be useful in trying to apply an ordering function.
+![](images/mockup-single-page.png)
