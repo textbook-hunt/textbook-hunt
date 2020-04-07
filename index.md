@@ -44,20 +44,20 @@ Displays the textbook for sale with all of the offer’s information.  Details s
 ## Mockup pages used as a basis
 
 *Landing Page can be used as a basis for the landing page when users arrive on the home page.
-![](images/landing-page.png)
+![](doc/landing-page.png)
 
 *Sign in and sign up Pages can be used for basis on our sign in and sign up pages.
-![](images/signin-page.png)
-![](images/signup-page.png)
+![](doc/signin-page.png)
+![](doc/signup-page.png)
 
 *Home Page can be used for basis of our user home page.
-![](images/home-page.png)
+![](doc/home-page.png)
 
 * Filter Page could be used as a basis for the listings/postings page.
-![](images/filter-page.png)
+![](doc/filter-page.png)
 
 *Add Project Page could be used as a basis for when users are trying to post an offer
-![](images/add-project-page.png)
+![](doc/add-project-page.png)
 
 *Digits Notes component might be useful in trying to apply an ordering function.
-![](images/mockup-single-page.png)
+![](doc/mockup-single-page.png)
