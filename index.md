@@ -17,10 +17,13 @@ A consumer can then arrange with the seller for a payment plan and pick up a tex
 ## Mockup Pages
 
 * Landing Page 
-There will be a homepage explaining the application and then students can log in with their UH account. 
+Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
+
+* Signup/Signin Page
+New users can create an account or sign in to their existing account
 
 * User Home/Profile Page 
-Users can see their textbook listings, ratings, ...
+Users can see their textbook listings, ratings, etc
 
 * Listing/Posting Page  
 Users can see the listings of many textbooks for sale.  The page will be sorted by ‘most recent postings’ by default.  Users can filter by subject and search by textbook name.
