@@ -60,6 +60,7 @@ Users can edit their existing textbook listings.  This includes changing metadat
     * previous coding experience from prior ICS classes
     * good communicator
   * Contact: manalun@hawaii.edu
+  
 * Jake Imanaka:
   * Goals:
     * Practice creating and managing dynamic web apps and databases.
@@ -68,6 +69,7 @@ Users can edit their existing textbook listings.  This includes changing metadat
     * Previous coding experience from prior ICS classes
     * Light data management with web API's and JSON
   * Contact: jimanaka@hawaii.edu
+  
 * Weihang Mai (Ray)
   * Goals:
     * Learn more about react and build amazing web apps
@@ -76,6 +78,7 @@ Users can edit their existing textbook listings.  This includes changing metadat
     * Experience with SQL databases
     * php web development experience
   * Contact: weihang@hawaii.edu
+  
 * Shinya Saito
   * Goals:
     * Practice professionalism in group work environments
