@@ -89,7 +89,7 @@ Users can edit their existing textbook listings.  This includes changing metadat
   * Skills:
     * Proactive with a flexible mind
     * Experienced with the student-to-student textbook exchange proccess 
-    * Created an inter-major textbook bookshelf and google drive
+    * Created an inter-major textbook bookshelf
   * Contact: saitoshi@hawaii.edu
   
     
