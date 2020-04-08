@@ -50,6 +50,9 @@ Users can edit their existing textbook listings.  This includes changing metadat
 * Logged in students have the option to browse the offers or post new listing 
 * Admin logs in and is able to edit and organize listings 
 
-## Member Descriptions:
+## Team Members:
+
+* sdfsdf
+  * dfg
 
 
