@@ -2,7 +2,7 @@
 
 ## Goal of the Project 
 
-Textbook-Hunt provides college students with cheaper alternatives for textbooks and for students to sell unneeded textbooks for additional pocket money. 
+Textbook-Hunt provides college students with cheaper alternatives for textbooks and for students to buy and sell unneeded textbooks for additional pocket money. 
 
 ## Overview
 
