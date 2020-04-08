@@ -20,6 +20,7 @@ A consumer can then arrange with the seller for a payment plan and pick up a tex
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
 
 ![](doc/landing-mockup.png)
+
 * Signup/Signin Page <br/>
 New users can create an account or sign in to their existing account
 
