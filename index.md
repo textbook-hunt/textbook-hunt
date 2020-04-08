@@ -36,8 +36,9 @@ Displays the textbook for sale with all of the offer’s information.  Details s
 
 * Post Listing Page <br/>
 Users can post a listing for a textbook they own and wish to sell.  Users will provide details such as a picture of the book, name of the book, condition of the book, etc.
-
+![](doc/postListing.png)
 * Edit Listing Page <br/>
+![](doc/editListing.png)
 Users can edit their existing textbook listings.  This includes changing metadata, descriptions, price, availability, etc.
 
 
