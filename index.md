@@ -19,17 +19,23 @@ A consumer can then arrange with the seller for a payment plan and pick up a tex
 * Landing Page 
 There will be a homepage explaining the application and then students can log in with their UH account. 
 
-* User Home Page 
+* User Home/Profile Page 
 Users can see their textbook listings, ratings, ...
-
-* Admin Home Page 
-The admins will have access to all of the textbook postings on the site, and will have the power to edit and delete posts.
 
 * Listing/Posting Page  
 Users can see the listings of many textbooks for sale.  The page will be sorted by ‘most recent postings’ by default.  Users can filter by subject and search by textbook name.
 
-* Individual Listing page
+* Admin Listing/Postings Page
+Admins can see the listings of textbooks for sale.  Will be similar to the user's Listings page but it will have a "delete posting" function.
+
+* Individual Listing Page
 Displays the textbook for sale with all of the offer’s information.  Details such as price, textbook name, image, etc. will be displayed.  There will also be an option to place an order for the item.
+
+* Post Listing Page
+Users can post a listing for a textbook they own and wish to sell.  Users will provide details such as a picture of the book, name of the book, condition of the book, etc.
+
+* Edit Listing Page
+Users can edit their existing textbook listings.  This includes changing metadata, descriptions, price, availability, etc.
 
 
 
