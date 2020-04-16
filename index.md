@@ -20,12 +20,12 @@ A consumer can then arrange with the seller for a payment plan and pick up a tex
 ## Milestone 
 
 ### M1 
-Here is the link to Milestone 1 where all the issues were worked from April 9th to April 15th. 
-https://github.com/textbook-hunt/textbookhunt/projects/2
+Here is the link to [Milestone 1](https://github.com/textbook-hunt/textbookhunt/projects/2) where all the issues were worked from April 9th to April 15th. 
+
 
 ### M2 
-Here is the link to Milestone 2 where all the issues that were worked from April 16th to April 28th. 
-https://github.com/textbook-hunt/textbookhunt/projects/3
+Here is the link to [Milestone 2](https://github.com/textbook-hunt/textbookhunt/projects/3) where all the issues that were worked from April 16th to April 28th. 
+
 
 
 ## Mockup Pages
@@ -34,12 +34,12 @@ https://github.com/textbook-hunt/textbookhunt/projects/3
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
 
 ![](doc/landing-mockup.png)
-Here is the link to the landing page: https://textbook-hunt.github.io/.
+Here is the link to the [landing page](https://textbook-hunt.github.io/).
 
 * Signup/Signin Page <br/>
 New users can create an account or sign in to their existing account
 ![](doc/signin-page.png)
-Here is the link to the sign in page: http://textbookhunt.meteorapp.com/#/signin.
+Here is the link to the [sign in page](http://textbookhunt.meteorapp.com/#/signin).
 ![](doc/signup-page.png)
 Here is the link to the sign up page to make an account: http://textbookhunt.meteorapp.com/#/signup
 * User Home/Profile Page <br/>
