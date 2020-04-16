@@ -20,6 +20,7 @@ A consumer can then arrange with the seller for a payment plan and pick up a tex
 ## Milestone 
 
 ### M1 
+![](doc/milestone1.png)
 Here is the link to [Milestone 1](https://github.com/textbook-hunt/textbookhunt/projects/2) where all the issues were worked from April 9th to April 15th. 
 
 
