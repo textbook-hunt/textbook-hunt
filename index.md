@@ -36,8 +36,9 @@ Here is the link to the landing page: https://textbook-hunt.github.io/.
 
 * Signup/Signin Page <br/>
 New users can create an account or sign in to their existing account
-
+![](doc/signin-page.png)
 Here is the link to the sign in page: http://textbookhunt.meteorapp.com/#/signin.
+![](doc/signup-page.png)
 Here is the link to the sign up page to make an account: http://textbookhunt.meteorapp.com/#/signup
 * User Home/Profile Page <br/>
 Users can see their textbook listings, ratings, etc
@@ -45,20 +46,19 @@ Users can see their textbook listings, ratings, etc
 Here is the link to the listings page: 
 * Listing/Posting Page <br/>
 Users can see the listings of many textbooks for sale.  The page will be sorted by ‘most recent postings’ by default.  Users can filter by subject and search by textbook name.
-
+![](doc/signup-page.png)
 
 * Individual Listing Page <br/>
 Displays the textbook for sale with all of the offer’s information.  Details such as price, textbook name, image, etc. will be displayed.  There will also be an option to place an order for the item.
 
 * Post Listing Page <br/>
 Users can post a listing for a textbook they own and wish to sell.  Users will provide details such as a picture of the book, name of the book, condition of the book, etc.
-
-![](doc/postListing.png)
+![](doc/listingPage.png)
+Here is the link for the page: http://textbookhunt.meteorapp.com/#/list
 * Edit Listing Page <br/>
 Users can edit their existing textbook listings.  This includes changing metadata, descriptions, price, availability, etc.
-
 ![](doc/editListing.png)
-
+Here is the link for the page: http://textbookhunt.meteorapp.com/#/edit/CY8yJrv4vaXYwSuMi
 
 ## Use Case Ideas 
 
