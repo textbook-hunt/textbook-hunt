@@ -1,6 +1,8 @@
 # Textbook Hunt
 
 Here is the link to the textbook-hunt application: http://textbookhunt.meteorapp.com/#/ 
+
+Here is the [Textbook Hunt application github page](https://github.com/textbook-hunt/textbookhunt), 
 ## Goal of the Project 
 
 Textbook-Hunt provides college students with cheaper alternatives for textbooks and for students to buy and sell unneeded textbooks for additional pocket money. 
