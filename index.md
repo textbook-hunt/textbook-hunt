@@ -1,5 +1,6 @@
 # Textbook Hunt
 
+Here is the link to the textbook-hunt application: http://textbookhunt.meteorapp.com/#/ 
 ## Goal of the Project 
 
 Textbook-Hunt provides college students with cheaper alternatives for textbooks and for students to buy and sell unneeded textbooks for additional pocket money. 
@@ -36,14 +37,15 @@ Here is the link to the landing page: https://textbook-hunt.github.io/.
 * Signup/Signin Page <br/>
 New users can create an account or sign in to their existing account
 
+Here is the link to the sign in page: http://textbookhunt.meteorapp.com/#/signin.
+Here is the link to the sign up page to make an account: http://textbookhunt.meteorapp.com/#/signup
 * User Home/Profile Page <br/>
 Users can see their textbook listings, ratings, etc
 
+Here is the link to the listings page: 
 * Listing/Posting Page <br/>
 Users can see the listings of many textbooks for sale.  The page will be sorted by ‘most recent postings’ by default.  Users can filter by subject and search by textbook name.
 
-* Admin Listing/Postings Page <br/>
-Admins can see the listings of textbooks for sale.  Will be similar to the user's Listings page but it will have a "delete posting" function.
 
 * Individual Listing Page <br/>
 Displays the textbook for sale with all of the offer’s information.  Details such as price, textbook name, image, etc. will be displayed.  There will also be an option to place an order for the item.
