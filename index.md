@@ -14,6 +14,17 @@ As a consumer, you can search by textbook name or subject department. Textbook-H
 
 A consumer can then arrange with the seller for a payment plan and pick up a textbook. 
 
+## Milestone 
+
+### M1 
+Here is the link to Milestone 1 where all the issues were worked from April 9th to April 15th. 
+https://github.com/textbook-hunt/textbookhunt/projects/2
+
+### M2 
+Here is the link to Milestone 2 where all the issues that were worked from April 16th to April 28th. 
+https://github.com/textbook-hunt/textbookhunt/projects/3
+
+
 ## Mockup Pages
 
 * Landing Page <br/>
