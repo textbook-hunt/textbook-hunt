@@ -43,9 +43,10 @@ New users can create an account or sign in to their existing account
 Here is the link to the [sign in page](http://textbookhunt.meteorapp.com/#/signin).
 ![](doc/signup-page.png)
 Here is the link to the [sign up](http://textbookhunt.meteorapp.com/#/signup) page to make an account.
-* User Home/Profile Page <br/>
-Users can see their textbook listings, ratings, etc
-
+* Profile Page <br/>
+Once the user has created a profile, they can see their information and update it if necessary.
+![](doc/profile.png)
+![](doc/editProfile.png)
 Here is the link to the listings page: 
 Displays the textbook for sale with all of the offer’s information.  Details such as price, textbook name, image, etc. will be displayed.  There will also be an option to place an order for the item.
 ![](doc/listingPage.png)
