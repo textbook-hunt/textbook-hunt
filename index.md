@@ -34,7 +34,7 @@ Here is the link to [Milestone 2](https://github.com/textbook-hunt/textbookhunt/
 * Landing Page <br/>
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
 
-![](doc/landing-mockup.png)
+![](doc/landing.png)
 Here is the link to the [landing page](https://textbook-hunt.github.io/).
 
 * Signup/Signin Page <br/>
