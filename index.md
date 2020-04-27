@@ -66,7 +66,7 @@ Here is the [link](http://textbookhunt.meteorapp.com/#/edit/CY8yJrv4vaXYwSuMi) f
 * Listing Page <br/>
 Users will be met with this page when clicking on one of the posts that interests them.  Through this page, they can see the book name, price, condition, and description. They can also add a memo in order to purchase the book.  If the user posted the listing, they have the option to edit.
 ![](doc/listing.png)
-Here is the [link]() for the page.
+Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn) for the page.
 
 ## Use Case Ideas 
 
