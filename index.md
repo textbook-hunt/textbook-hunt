@@ -27,9 +27,10 @@ Here is the link to [Milestone 1](https://github.com/textbook-hunt/textbookhunt/
 ### M2 
 Here is the link to [Milestone 2](https://github.com/textbook-hunt/textbookhunt/projects/3) where all the issues that were worked from April 16th to April 28th. 
 
+### M3 
+Here is the link to [Milestone 3]() where all the issues were worked from April 28th to May 6th.
 
-
-## Mockup Pages
+## User's Guide 
 
 * Landing Page <br/>
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
@@ -76,6 +77,19 @@ Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn
 * Logged in students have the option to browse the offers or post new listing 
 * Admin logs in and is able to edit and organize listings 
 
+## Developer's Guide 
+
+To download the source code please head over to the repository [page](https://github.com/textbook-hunt/textbookhunt) and download the master branch. 
+
+To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder.
+![](doc/cd.png)
+
+Then, install meteor in the app folder using this command
+![](doc/meteorinstall.png)
+Then run meteor npm run start within the app folder head to http://localhost:3000 to see the app running.
+
+![](doc/meteornpmrun.png)
+To modify the native source code, it is highly recommended that you use IntelliJ Idea to modify the source code to your liking. You can download it [here](https://www.jetbrains.com/idea/download/#section=mac).
 ## Team Members:
 
 * Manalu Nakanishi
