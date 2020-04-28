@@ -29,7 +29,7 @@ Here is the link to [Milestone 1](https://github.com/textbook-hunt/textbookhunt/
 Here is the link to [Milestone 2](https://github.com/textbook-hunt/textbookhunt/projects/3) where all the issues that were worked from April 16th to April 28th. 
 
 ### M3 
-Here is the link to [Milestone 3]() where all the issues were worked from April 28th to May 6th.
+Here is the link to [Milestone 3](https://github.com/textbookhunt/textbookhunt/projects/4) where all the issues were worked from April 28th to May 6th.
 
 ## User's Guide 
 
