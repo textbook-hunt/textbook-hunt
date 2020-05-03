@@ -71,14 +71,10 @@ Users will be met with this page when clicking on one of the posts that interest
 ![](doc/listing.png)
 Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn) for the page.
 
-## Use Case Ideas 
-
-* New user arrives to landing page 
-* Sign in with their UH account and sets up a profile to sell or purchase 
-* Returning users can log in with the log in back 
-* Logged in students have the option to browse the offers or post new listing 
-* Admin logs in and is able to edit and organize listings 
-
+## Community Feedback 
+- Connor K.,Undergraduate in Civil Engineering Major  
+> Pretty simple to use and the theme is pretty good. 
+- Axil , Undergraduate in Mathematics Education Major 
 ## Developer's Guide 
 
 To download the source code please head over to the repository [page](https://github.com/textbook-hunt/textbookhunt) and download the master branch. 
