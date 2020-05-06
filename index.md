@@ -76,6 +76,8 @@ Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn
    >>>Pretty simple to use and the theme is pretty good. 
 - Axil , Undergraduate in Mathematics Education Major 
    > Simple to use but the yellow color might be hard to see for some people.
+- Frendy, Undergraduate in Electrical Engineering 
+   > I do not like the yellow color choice but overall looks cool. 
 ## Developer's Guide 
 
 To download the source code please head over to the repository [page](https://github.com/textbookhunt/textbookhunt) and download the master branch. 
