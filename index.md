@@ -75,9 +75,10 @@ Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn
 - Connor K.,Undergraduate in Civil Engineering Major  
    >>>Pretty simple to use and the theme is pretty good. 
 - Axil , Undergraduate in Mathematics Education Major 
+   > Simple to use but the yellow color might be hard to see for some people.
 ## Developer's Guide 
 
-To download the source code please head over to the repository [page](https://github.com/textbook-hunt/textbookhunt) and download the master branch. 
+To download the source code please head over to the repository [page](https://github.com/textbookhunt/textbookhunt) and download the master branch. 
 
 To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder.
 ![](doc/cd.png)
