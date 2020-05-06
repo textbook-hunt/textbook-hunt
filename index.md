@@ -73,7 +73,7 @@ Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn
 
 ## Community Feedback 
 - Connor K.,Undergraduate in Civil Engineering Major  
-   >>>Pretty simple to use and the theme is pretty good. 
+   >Pretty simple to use and the theme is pretty good. 
 - Axil , Undergraduate in Mathematics Education Major 
    > Simple to use but the yellow color might be hard to see for some people.
 - Frendy, Undergraduate in Electrical Engineering 
