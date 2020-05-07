@@ -38,7 +38,7 @@ Here is the link to [Milestone 3](https://github.com/textbookhunt/textbookhunt/p
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
 
 ![](doc/landing.png)
-Here is the link to the [landing page](hhttp://textbookhunt.meteorapp.com/#/).
+Here is the link to the [landing page](http://textbookhunt.meteorapp.com/#/).
 
 * Signup/Signin Page <br/>
 New users can create an account or sign in to their existing account
