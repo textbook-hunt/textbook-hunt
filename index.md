@@ -71,6 +71,9 @@ Users will be met with this page when clicking on one of the posts that interest
 ![](doc/listing.png)
 Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn) for the page.
 
+* Admin Page <br/>
+The Admin has the ability to edit or delete the textbook information.
+![](doc/admin.png)
 ## Community Feedback 
 - Connor K.,Undergraduate in Civil Engineering Major  
    >Pretty simple to use and the theme is pretty good. 
