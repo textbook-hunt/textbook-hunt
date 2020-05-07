@@ -77,10 +77,12 @@ The Admin has the ability to edit or delete the textbook information.
 ## Community Feedback 
 - Connor K.,Undergraduate in Civil Engineering Major  
    >Pretty simple to use and the theme is pretty good. 
-- Axil , Undergraduate in Mathematics Education Major 
+- Axil D., Undergraduate in Mathematics Education Major 
    > Simple to use but the yellow color might be hard to see for some people.
 - Frendy, Undergraduate in Electrical Engineering 
    > I do not like the yellow color choice but overall looks cool. 
+- Matthew K, Undergraduate in ICS.
+   > The application is easy to use, would add a hardcover or paperback cover filter but otherwise good. 
 ## Developer's Guide 
 
 To download the source code please head over to the repository [page](https://github.com/textbookhunt/textbookhunt) and download the master branch. 
