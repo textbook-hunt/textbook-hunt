@@ -1,8 +1,5 @@
 # Textbook Hunt
-
-Here is the link to the [textbook hunt application](http://textbookhunt.meteorapp.com/#/).
-
-Here is the [Textbook Hunt application github page](https://github.com/textbookhunt/textbookhunt) which cotains the source code.  
+Here is the [Textbook Hunt depository page](https://github.com/textbookhunt/textbookhunt) which cotains the source code.  
 
 ## Goal of the Project 
 
@@ -51,7 +48,6 @@ Once the user has created a profile, they can see their information and update i
 ![](doc/profile.png)
 ![](doc/editProfile.png)
 * Group Listing <br/>
-Here is the link to the [listings page](http://textbookhunt.meteorapp.com/#/list): 
 Displays the textbook for sale with all of the offer’s information.  Details such as price, textbook name, image, etc. will be displayed.  There will also be an option to place an order for the item.
 ![](doc/listingPage.png)
 Here is the [link](http://textbookhunt.meteorapp.com/#/list) for the page.
@@ -59,17 +55,17 @@ Here is the [link](http://textbookhunt.meteorapp.com/#/list) for the page.
 * Post Listing Page <br/>
 Users can post a listing for a textbook they own and wish to sell.  Users will provide details such as a picture of the book, name of the book, condition of the book, etc.
 ![](doc/postListing.png)
-Here is the [link](http://textbookhunt.meteorapp.com/#/add)  for the page. 
+
 
 * Edit Listing Page <br/>
 Users can edit their existing textbook listings.  This includes changing metadata, descriptions, price, availability, etc.
 ![](doc/editListing.png)
-Here is the [link](http://textbookhunt.meteorapp.com/#/edit/CY8yJrv4vaXYwSuMi) for the page.
+
 
 * Listing Page <br/>
 Users will be met with this page when clicking on one of the posts that interests them.  Through this page, they can see the book name, price, condition, and description. They can also add a memo in order to purchase the book.  If the user posted the listing, they have the option to edit.
 ![](doc/listing.png)
-Here is the [link](http://textbookhunt.meteorapp.com/#/listing/8knbE62zBJLMD4cqn) for the page.
+
 
 * Admin Page <br/>
 The Admin has the ability to edit or delete the textbook information.
