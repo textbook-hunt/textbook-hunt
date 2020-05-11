@@ -83,7 +83,7 @@ The Admin has the ability to edit or delete the textbook information.
    > I do not like the yellow color choice but overall looks cool. 
 - Matthew K, Undergraduate in ICS
    > The application is easy to use, would add a hardcover or paperback cover filter but otherwise good. 
-- Sophia L, Undergraduate Biochemistry 
+- Sophia L, Undergraduate in Biochemistry 
    > When the user uploads the textbook the user should also upload the barcode number, but otherwise looks great with the filter and search function. 
 ## Developer's Guide 
 
