@@ -85,6 +85,7 @@ The Admin has the ability to edit or delete the textbook information.
    > The application is easy to use, would add a hardcover or paperback cover filter but otherwise good. 
 - Sophia L, Undergraduate in Biochemistry 
    > When the user uploads the textbook the user should also upload the barcode number, but otherwise looks great with the filter and search function. 
+   
 ## Developer's Guide 
 
 To download the source code please head over to the repository [page](https://github.com/textbookhunt/textbookhunt) and download the master branch. 
