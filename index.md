@@ -71,6 +71,9 @@ Users will be met with this page when clicking on one of the posts that interest
 The Admin has the ability to edit or delete the textbook information.
 ![](doc/admin.png)
 ## Community Feedback 
+
+Here are some of the feedback received from University of Hawaii at Manoa students. 
+
 - Connor K.,Undergraduate in Civil Engineering 
    >Pretty simple to use and the theme is pretty good. 
 - Axil D., Undergraduate in Mathematics Education
