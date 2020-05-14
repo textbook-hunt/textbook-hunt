@@ -35,14 +35,13 @@ Here is the link to [Milestone 3](https://github.com/textbookhunt/textbookhunt/p
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
 
 ![](doc/landing.png)
-Here is the link to the [landing page](http://textbookhunt.meteorapp.com/#/).
 
 * Signup/Signin Page <br/>
 New users can create an account or sign in to their existing account
 ![](doc/signin-page.png)
-Here is the link to the [sign in page](http://textbookhunt.meteorapp.com/#/signin).
+
 ![](doc/signup-page.png)
-Here is the link to the [sign up](http://textbookhunt.meteorapp.com/#/signup) page to make an account.
+
 * Profile Page <br/>
 Once the user has created a profile, they can see their information and update it if necessary.
 ![](doc/profile.png)
@@ -50,7 +49,6 @@ Once the user has created a profile, they can see their information and update i
 * Group Listing <br/>
 Displays the textbook for sale with all of the offer’s information.  Details such as price, textbook name, image, etc. will be displayed.  There will also be an option to place an order for the item.
 ![](doc/listingPage.png)
-Here is the [link](http://textbookhunt.meteorapp.com/#/list) for the page.
 
 * Post Listing Page <br/>
 Users can post a listing for a textbook they own and wish to sell.  Users will provide details such as a picture of the book, name of the book, condition of the book, etc.
